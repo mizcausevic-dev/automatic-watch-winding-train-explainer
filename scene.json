@@ -11,56 +11,56 @@
       "glyph": "cantilever",
       "label": "Oscillating rotor",
       "role": "path",
-      "x": 0.5,
-      "y": 0.22
+      "x": 0.14,
+      "y": 0.32
     },
     {
       "id": "n2",
       "glyph": "plate",
       "label": "Motion",
       "role": "structure",
-      "x": 0.719,
-      "y": 0.318
+      "x": 0.38,
+      "y": 0.32
     },
     {
       "id": "n3",
       "glyph": "plate",
       "label": "Reduction gearing",
       "role": "structure",
-      "x": 0.773,
-      "y": 0.538
+      "x": 0.62,
+      "y": 0.32
     },
     {
       "id": "n4",
       "glyph": "plate",
       "label": "Selected reversing mechanism",
       "role": "structure",
-      "x": 0.621,
-      "y": 0.714
+      "x": 0.86,
+      "y": 0.32
     },
     {
       "id": "n5",
       "glyph": "barrel",
       "label": "Torque to mainspring barrel",
       "role": "energy",
-      "x": 0.379,
-      "y": 0.714
+      "x": 0.14,
+      "y": 0.7
     },
     {
       "id": "n6",
       "glyph": "can",
       "label": "Wound energy",
       "role": "energy",
-      "x": 0.227,
-      "y": 0.538
+      "x": 0.5,
+      "y": 0.7
     },
     {
       "id": "n7",
       "glyph": "doc",
       "label": "Rotor movement",
       "role": "path",
-      "x": 0.281,
-      "y": 0.318
+      "x": 0.86,
+      "y": 0.7
     }
   ],
   "edges": [

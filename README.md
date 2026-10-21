@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/automatic-watch-winding-train-explainer/
 
+Repository: https://github.com/mizcausevic-dev/automatic-watch-winding-train-explainer
+
 ## What this is
 
 An interactive anatomy plate for Automatic Watch Winding Train. Play, scrub, or jump the five stages. The same frame always draws the same picture.
